@@ -14,8 +14,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/vpn-telegram-bot.git
-   cd vpn-telegram-bot```
+   git clone https://github.com/sergeyzhinskiy/sale_vpn.git
+   cd sale_vpn```
 
 2. Установите зависимости:
 
